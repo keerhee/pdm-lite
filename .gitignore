@@ -1,0 +1,4 @@
+env_check.txt
+analyze.py
+outputs/report.txt
+__pycache__/
